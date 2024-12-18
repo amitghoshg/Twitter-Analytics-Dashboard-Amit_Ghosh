@@ -2,7 +2,7 @@
 This is a Power BI project focused on building an interactive Analytics Dashboard for data visualization and reporting. The dashboard allows users to explore key metrics and insights in a user-friendly interface, helping to analyze Twitter performance and trends.
 
 # Features
-### Interactive Visuals: The dashboard includes charts, tables, and KPIs that allow users to filter and drill down into the data.
+#### Interactive Visuals: The dashboard includes charts, tables, and KPIs that allow users to filter and drill down into the data.
 ### Data Integration: Connects with various data sources to pull real-time data for analysis.
 ### User-Centric Design: Focused on presenting key metrics clearly and efficiently, making data interpretation easier for decision-makers.
 # Technologies Used
